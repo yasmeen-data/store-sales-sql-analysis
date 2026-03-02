@@ -46,3 +46,9 @@ This project uses a single table:
 1. PostgreSQL
 2. pgAdmin
 3. GitHub
+
+
+## How to Run This Project
+1. Open PostgreSQL / pgAdmin
+2. Run 01_setup.sql to create the table
+3. Run 02_analysis.sql to execute analysis queries.
