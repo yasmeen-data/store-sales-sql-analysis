@@ -36,7 +36,7 @@ This project uses a single table:
 7. Which city has the highest average order value?
 8. How many orders were placed in January?
 
--## Key Insights
+## Key Insights
 * Mumbai generated the highest revenue.
 * Asha is the top spending customer.
 * January generated more revenue than February.
